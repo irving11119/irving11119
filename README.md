@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irving11119&label=Profile%20views&color=0e75b6&style=flat" alt="irving11119" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irving11119&theme=onedark" alt="irving11119" /></a> </p>
 
 - 🌱 My current interests include **embedded systems, software engineering, data engineering and artificial intelligence**
 - 🌱 Beyond my coursework, I'm always looking for new projects to collaborate on!
